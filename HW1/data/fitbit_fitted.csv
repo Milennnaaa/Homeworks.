@@ -1,0 +1,10 @@
+year,devices_sold_mln,source,fitted_nls_mln,fitted_ols_mln,cum_actual_mln,cum_fitted_nls_mln
+2011,0.2,Fitbit Form S-1 (2015) via MobiHealthNews,2.054,7.863,0.2,1.51
+2012,1.3,Fitbit Form S-1 (2015),3.859,13.6,1.5,4.38
+2013,4.5,Fitbit Form S-1 (2015),6.942,19.546,6.0,9.656
+2014,10.9,Fitbit Form 10-K FY2015 / FY2016,11.556,21.637,16.9,18.785
+2015,21.355,Fitbit Form 10-K FY2019 (Selected Financial Data),16.939,17.975,38.255,33.046
+2016,22.295,Fitbit Form 10-K FY2019 (Selected Financial Data),20.659,11.731,60.55,52.115
+2017,15.343,Fitbit Form 10-K FY2019 (Selected Financial Data),20.178,6.519,75.893,72.926
+2018,13.939,Fitbit Form 10-K FY2019 (Selected Financial Data),15.861,3.308,89.832,91.161
+2019,15.988,Fitbit Form 10-K FY2019 (Selected Financial Data),10.49,1.602,105.82,104.308

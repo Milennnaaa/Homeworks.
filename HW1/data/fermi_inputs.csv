@@ -1,0 +1,7 @@
+input,value,type,source
+Population of high-income countries (2025),1423739902,data,World Bank via FRED series SPPOPTOTLHIC
+Share of adults who regularly wear a smartwatch or fitness tracker,0.21,data,Pew Research Center (survey June 2019)
+Share of wearable users who would buy a smart ring,0.10,assumption,Own Fermi assumption (see report)
+Oura share of smart ring market,0.74,data,Omdia H1 2025 via 36Kr
+Global mobile internet users (2024),4720000000,data (context),GSMA State of Mobile Internet Connectivity 2025
+Worldwide wearable shipments (2024),534600000,data (context),IDC Worldwide Quarterly Wearable Device Tracker
